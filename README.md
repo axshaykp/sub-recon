@@ -7,6 +7,7 @@
 ## Setup
 ```sh
 git clone https://github.com/axxsh/sub-recon.git
+cd sub-recon
 chmod +x subrecon.sh
 ```
 
