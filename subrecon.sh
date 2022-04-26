@@ -1,5 +1,5 @@
 #!/bin/bash
-#test
+
 if [ $# -eq 0 ]; then
     echo -e "Enter a domain.\neg : $0 example.com"
     exit 1
